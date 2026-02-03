@@ -39,28 +39,31 @@ Nuestro stack se define según el contexto del proyecto, priorizando **estabilid
 
 ### Frontend & Mobile
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React / React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+</p>
+
+### Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud Platform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Microsoft Azure" />
+</p>
+
+### CI / CD & DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </p>
 
 ### Enfoque técnico
 - Arquitecturas basadas en **APIs REST**
 - Servicios desacoplados
 - Integraciones cloud
+- Pipelines de integración y despliegue continuo (CI/CD)
 - Control de versiones, entornos separados y documentación técnica
-
----
-
-## Sobre esta organización en GitHub
-
-Esta organización centraliza los **repositorios oficiales de IESISA**, incluyendo:
-
-- Proyectos de clientes (privados)
-- Herramientas internas
-- Librerías y componentes compartidos
-- Proyectos de soporte y mantenimiento
-
-Algunos repositorios no son públicos debido a acuerdos de confidencialidad. 🔒
 
 ---
 
