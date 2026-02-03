@@ -1,4 +1,4 @@
-# :contentReference[oaicite:0]{index=0}
+# IESISA
 
 **IESISA** es una empresa mexicana especializada en **consultoría tecnológica**, **desarrollo de software a medida** y **acompañamiento en procesos de calidad**, incluyendo **ISO 9001**.
 
@@ -27,23 +27,21 @@ Actuamos como **socios tecnológicos** para organizaciones que requieren solucio
 
 ## Tecnologías que utilizamos
 
-Nuestro stack se selecciona según el contexto del proyecto, priorizando **estabilidad, mantenibilidad y escalabilidad**.
+Nuestro stack se define según el contexto del proyecto, priorizando **estabilidad**, **mantenibilidad** y **escalabilidad**.
 
 ### Backend
-
-::contentReference[oaicite:1]{index=1}
-
-- PHP  
-- Laravel  
-- Python  
-- .NET  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
+</p>
 
 ### Frontend & Mobile
-
-::contentReference[oaicite:2]{index=2}
-
-- React  
-- React Native  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
+</p>
 
 ### Enfoque técnico
 - Arquitecturas basadas en **APIs REST**
@@ -68,7 +66,7 @@ Algunos repositorios no son públicos debido a acuerdos de confidencialidad. �
 
 ## Sitio web
 
-Para conocer más sobre nuestros servicios y enfoque:
+Más información sobre nuestros servicios y enfoque:
 
 👉 https://iesisa.com/
 
