@@ -18,8 +18,8 @@ Actuamos como **socios tecnológicos** para organizaciones que requieren solucio
 - APIs, backends y plataformas internas  
 - Integraciones con servicios de terceros y sistemas legacy  
 
-### 📋 Calidad y procesos (ISO 9001)
-- Apoyo en la implementación y mantenimiento de ISO 9001  
+### 📋 Seguridad de la información (ISO 27001)
+- Apoyo en la implementación y mantenimiento de ISO 27001  
 - Documentación técnica y de procesos  
 - Alineación entre tecnología y sistemas de gestión de calidad  
 
