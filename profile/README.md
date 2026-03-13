@@ -1,6 +1,6 @@
 # IESISA
 
-**IESISA** es una empresa mexicana especializada en **consultoría tecnológica**, **desarrollo de software a medida** y **acompañamiento en procesos de calidad**, incluyendo **ISO 9001**.
+**IESISA** es una empresa mexicana especializada en **consultoría tecnológica**, **desarrollo de software a medida** y **acompañamiento en procesos de calidad**, incluyendo **ISO 2701**.
 
 Actuamos como **socios tecnológicos** para organizaciones que requieren soluciones confiables, escalables y alineadas a estándares de calidad. 🤝
 
